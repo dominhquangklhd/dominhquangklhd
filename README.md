@@ -24,14 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dominhquangklhd&theme=radical&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominhquangklhd&show_icons=true&theme=radical)
-
----
-
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
