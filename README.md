@@ -4,12 +4,10 @@
 
 ---
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 ### 🚀 About Me
-- 🎯 Passionate about **Software Development & Cloud Computing**
-- 📚 Currently exploring **System Architecture & AI Development**
-- 🌎 Open to **collaborations on innovative tech projects**
-- 💡 Always eager to **learn new technologies** and **share knowledge**
-
+- I’m currently working on UET - VNU
+- I’m currently learning Computer Science
 ---
 
 ### 🛠 Tech Stack
